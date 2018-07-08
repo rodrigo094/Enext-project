@@ -1,0 +1,10 @@
+# Para todos os arquivos e sub-pastas localizados na pasta vendor/
+vendor/
+# Para arquivos Java compilados
+*.class
+# Para código C
+*.so
+# Para todos os arquivos e sub-pastas localizados na pasta node_modules/
+node_modules/
+# Para a pasta src
+src/

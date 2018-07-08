@@ -1,0 +1,36 @@
+{
+  "name": "project-enext",
+  "version": "0.0.1",
+  "description": "Teste Enext - Merlin's Potions",
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo094/Enext-project.git"
+  },
+  "keywords": [],
+  "author": "Rodrigo_Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo094/Enext-project"
+  },
+  "homepage": "https://github.com/rodrigo094/Enext-project#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^4.0.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-sync": "^0.1.4"
+  },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "npm": "^6.1.0"
+  }
+}
